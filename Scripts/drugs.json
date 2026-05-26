@@ -1,0 +1,532 @@
+[
+    {
+        "id": "{954BAEC4-015C-4AB7-9EE6-52932265932A}",
+        "name": "Abstral SL tab 100 mcg (fentanyl)",
+        "type": "Product"
+    },
+    {
+        "id": "{BA3EF146-BA20-4DF5-99D5-5B6C0D601C04}",
+        "name": "Aggrastat concentration for infusion 0.25 mg/mL",
+        "type": "Product"
+    },
+    {
+        "id": "{C1DF0759-DFC5-5775-E034-0003BA299378}",
+        "name": "albendazole 200mg Film Coated Tablet",
+        "type": "GGPI"
+    },
+    {
+        "id": "{FF8678D8-6EE9-4BC8-9BED-DF4631122D27}",
+        "name": "alcaftadine 0.25% Eye Drops Solution",
+        "type": "GGPI"
+    },
+    {
+        "id": "{297630CC-2A60-41FE-BE16-DAF2C4A83DDE}",
+        "name": "allopurinol Caplet",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{91241D49-5E58-4D63-A767-C8F4F6E9B85D}",
+        "name": "Allopurinol YSP tab 100 mg (allopurinol)",
+        "type": "Product"
+    },
+    {
+        "id": "{51266C2F-19A2-42FC-97AC-690C9A023AD2}",
+        "name": "aminophylline 100mg Oral Tablet",
+        "type": "GGPI"
+    },
+    {
+        "id": "{E5607D6B-3708-462A-9356-8D5754876C82}",
+        "name": "aminophylline Extended Release Tablet",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{E04944CC-C949-439E-9507-FE28D9965D39}",
+        "name": "amoxicillin",
+        "type": "Molecule"
+    },
+    {
+        "id": "{08BE72F8-30B2-40B3-B06C-D3A589F116AD}",
+        "name": "ampicillin 500mg Powder for Injection",
+        "type": "GGPI"
+    },
+    {
+        "id": "{FB5FF774-533B-4BFE-9F0D-CDB7D84BB6E2}",
+        "name": "Anafranil Coated tab 25 mg (clomipramine hydrochloride)",
+        "type": "Product"
+    },
+    {
+        "id": "{C1FF3771-DBAB-4BD3-95E0-F6CFCE30469B}",
+        "name": "Apo-Ondansetron tab 4 mg (ondansetron hydrochloride)",
+        "type": "Product"
+    },
+    {
+        "id": "{000347A7-E4B4-4C46-A9C0-EF2545C38634}",
+        "name": "Asolan tab 1 mg (alprazolam)",
+        "type": "Product"
+    },
+    {
+        "id": "{84FE07C9-4BC3-4F49-A578-57DA9C4388DF}",
+        "name": "Aspira chewable tab 5 mg (montelukast)",
+        "type": "Product"
+    },
+    {
+        "id": "{BFC578BB-210B-742C-E034-0003BA299378}",
+        "name": "baclofen 0.05mg per 1mL Injection",
+        "type": "GGPI"
+    },
+    {
+        "id": "{488F9F61-5D37-4989-925E-1742FFFDAA9E}",
+        "name": "captopril 100mg Oral Tablet",
+        "type": "GGPI"
+    },
+    {
+        "id": "{047B83EC-22A3-4A99-B35B-6C18E08B13F0}",
+        "name": "cefoxitin 1g Powder for Injectable Solution",
+        "type": "GGPI"
+    },
+    {
+        "id": "{9C83B346-F698-44AB-B0E7-D11D5A92C52F}",
+        "name": "CeleBREX cap 200 mg (celecoxib)",
+        "type": "Product"
+    },
+    {
+        "id": "{923A03EA-0859-4C0C-B7EC-B69F29C35BF3}",
+        "name": "Certican tab 0.25 mg (everolimus)",
+        "type": "Product"
+    },
+    {
+        "id": "{DD1443B9-E9CC-496A-AB8B-D32CE3785124}",
+        "name": "Chloramphenicol Sodium Succinate KAPL powd for inj 1 g (chloramphenicol)",
+        "type": "Product"
+    },
+    {
+        "id": "{9C96B01A-61F8-47D8-B4BC-B958ED2FCA9C}",
+        "name": "Clexane inj (pre-filled syringe) 20 mg/0.2 mL (enoxaparin sodium)",
+        "type": "Product"
+    },
+    {
+        "id": "{8F22AC17-59EC-4875-BEC6-B6DCC424B2A6}",
+        "name": "cocaine hydrochloride Oralmucosal Solution",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{B43550AD-945E-461B-E034-080020E1DD8C}",
+        "name": "colchicine Oral Tablet",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{22CD5B4E-D7D7-434E-9CCD-2762030E5312}",
+        "name": "Covastin tab 10 mg (simvastatin)",
+        "type": "Product"
+    },
+    {
+        "id": "{618B5411-6505-479F-92C7-1974CC2EDF3C}",
+        "name": "Cozaar FC tab 100 mg (losartan)",
+        "type": "Product"
+    },
+    {
+        "id": "{70C46650-0170-4D09-88BF-5D584328ABFC}",
+        "name": "Cravit IV infusion 250 mg/50 mL (levofloxacin)",
+        "type": "Product"
+    },
+    {
+        "id": "{B5094490-76FA-4D6D-A826-45AD872389DB}",
+        "name": "cyanocobalamin Sugar Coated Tablet",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{397538C8-FC86-40A1-A956-BB6EECF4FA62}",
+        "name": "Cyclogest pessary 400 mg (progesterone)",
+        "type": "Product"
+    },
+    {
+        "id": "{D71CE5AD-FC26-46B9-B171-4A1DF7BB87E0}",
+        "name": "Deponit NT 5 dermal patch 5 mg (nitroglycerin)",
+        "type": "Product"
+    },
+    {
+        "id": "{FD69209C-236D-4F40-9887-F429FF7F60ED}",
+        "name": "Dhasolone tab 5 mg (prednisolone)",
+        "type": "Product"
+    },
+    {
+        "id": "{B3E782A0-2CB3-162D-E034-080020E1DD8C}",
+        "name": "diazepam 5mg Oral Tablet",
+        "type": "GGPI"
+    },
+    {
+        "id": "{4C5AFE86-46BF-4CCD-AD11-A3975C17DB33}",
+        "name": "dimenhydrinate 15mg per 5ml oral suspension",
+        "type": "GGPI"
+    },
+    {
+        "id": "{BEE1A6D9-7366-1F1A-E034-0003BA299378}",
+        "name": "disulfiram 200mg Effervescent Tablet",
+        "type": "GGPI"
+    },
+    {
+        "id": "{18A30FD4-53C2-4965-BF78-E07D9EFFB0AA}",
+        "name": "docusate sodium Elixir",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{7D2319CA-5725-4AA5-A4FE-127763C7B3FD}",
+        "name": "domperidone 10mg Rectal Suppository",
+        "type": "GGPI"
+    },
+    {
+        "id": "{BAFFCD65-426C-459C-AA21-FA1236B868A4}",
+        "name": "Doxymycin cap 100 mg (doxycycline hydrochloride)",
+        "type": "Product"
+    },
+    {
+        "id": "{0B0D0BE1-C5C8-47D8-9BE1-7D8B0DA615A9}",
+        "name": "Emthexate tab 2.5 mg (methotrexate)",
+        "type": "Product"
+    },
+    {
+        "id": "{371D3303-D632-46E1-A408-E0A16F9EA9D1}",
+        "name": "Enapril tab 10 mg (enalapril maleate)",
+        "type": "Product"
+    },
+    {
+        "id": "{C5238586-7A63-417F-8077-3258C852A54D}",
+        "name": "erythromycin stearate 200mg Oral Tablet",
+        "type": "GGPI"
+    },
+    {
+        "id": "{D8A0225F-43A7-45C0-83D7-DBD5B14E6041}",
+        "name": "Famodine cap 20 mg (famotidine)",
+        "type": "Product"
+    },
+    {
+        "id": "{B4BA2E65-CEB7-4B91-8E52-ADCCEBAD86C7}",
+        "name": "Felocor MR tab 5 mg (felodipine)",
+        "type": "Product"
+    },
+    {
+        "id": "{1AD11399-2AF0-4EDF-8009-52968495E10D}",
+        "name": "Femoston 1/10 FC tab",
+        "type": "Product"
+    },
+    {
+        "id": "{1052A4DB-08EC-4FD6-8A54-82AD3D54560D}",
+        "name": "fentanyl citrate sublingual tablet",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{D7D16A4C-6EAA-496F-9938-B6C1782034C7}",
+        "name": "Frotin F.C. FC tab 200 mg (metronidazole)",
+        "type": "Product"
+    },
+    {
+        "id": "{11BD4224-2D25-44FE-83C2-07B6E05CA604}",
+        "name": "Fusidasol cream (betamethasone dipropionate - fusidic acid)",
+        "type": "Product"
+    },
+    {
+        "id": "{B45973DF-F7D0-43EB-B601-52F470F1D121}",
+        "name": "Glucomet tab 500 mg (metformin hydrochloride)",
+        "type": "Product"
+    },
+    {
+        "id": "{C88D01B2-7969-49DB-A87B-6A370E5FB4FF}",
+        "name": "Goutnor tab 0.6 mg (colchicine)",
+        "type": "Product"
+    },
+    {
+        "id": "{49EEDE52-CD06-4843-AF4D-0B28C2D61FF7}",
+        "name": "Heparin LEO inj 5000 IU/mL (heparin sodium)",
+        "type": "Product"
+    },
+    {
+        "id": "{3D1F5E30-93E7-420C-B238-C75CDF58D1ED}",
+        "name": "Herbesser Injection inj 50 mg (diltiazem)",
+        "type": "Product"
+    },
+    {
+        "id": "{D9AB0568-7CCA-4846-BB46-3FD920CE55F2}",
+        "name": "Hydrochlorzide tab 50 mg (hydrochlorothiazide)",
+        "type": "Product"
+    },
+    {
+        "id": "{24E75638-4A4E-4626-83C6-5B43BC46D292}",
+        "name": "Hyorth XL inj 8 mg/mL (sodium hyaluronate)",
+        "type": "Product"
+    },
+    {
+        "id": "{DEEFE9E8-83F3-4A94-A736-A21BFCA80B31}",
+        "name": "Inderal tab 10 mg (propranolol)",
+        "type": "Product"
+    },
+    {
+        "id": "{85A3D26B-65D8-4032-AD8C-6479BB354AC5}",
+        "name": "Irstran FC tab 300 mg (irbesartan)",
+        "type": "Product"
+    },
+    {
+        "id": "{A229DE8D-8337-4809-B072-7149BC2FBC78}",
+        "name": "Lanoxin PG elixir 50 mcg/mL (digoxin)",
+        "type": "Product"
+    },
+    {
+        "id": "{51117AF0-D596-4E64-B0DD-D4826F6B432A}",
+        "name": "levofloxacin enteric coated capsule",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{B4D59387-5071-4EC6-E034-080020E1DD8C}",
+        "name": "lidocaine hydrochloride 4% Topical Solution",
+        "type": "GGPI"
+    },
+    {
+        "id": "{067953D2-3215-4186-BDB1-8AEFEBC762D4}",
+        "name": "Maltofer syr 10 mg/mL",
+        "type": "Product"
+    },
+    {
+        "id": "{775368B5-254F-4CF0-A605-B64846459BF8}",
+        "name": "Manace inj 5 mg/mL (haloperidol)",
+        "type": "Product"
+    },
+    {
+        "id": "{1F00E3C8-E878-4081-BC07-EDECA6B7E7F6}",
+        "name": "Meraparon powd for inj/infusion 500 mg (meropenem)",
+        "type": "Product"
+    },
+    {
+        "id": "{8A0E925D-745B-4626-9F85-2D82B4240C9C}",
+        "name": "Metrogyl Injection soln for inj 5 mg/mL (metronidazole)",
+        "type": "Product"
+    },
+    {
+        "id": "{CFE66993-A07C-4857-95C7-68A6092D9272}",
+        "name": "Nebilet tab 5 mg",
+        "type": "Product"
+    },
+    {
+        "id": "{B45D331B-6947-530D-E034-080020E1DD8C}",
+        "name": "nitroglycerin Injection",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{A713E866-B041-4235-BE1B-416BBE968D4B}",
+        "name": "Nitroimidazole derivatives",
+        "type": "SubstanceClass"
+    },
+    {
+        "id": "{FCD98D32-73A1-4A1A-87BC-31FEB5CF31A1}",
+        "name": "Nolvadex-D tab 20 mg (tamoxifen)",
+        "type": "Product"
+    },
+    {
+        "id": "{786F9B4D-D736-4F78-8B64-0E264089CD46}",
+        "name": "Nystatin SM Pharma tab 500,000 IU (nystatin)",
+        "type": "Product"
+    },
+    {
+        "id": "{ECE5E1D7-E167-4F4E-AEA1-B342E6CDDDE9}",
+        "name": "Onegaba cap 300 mg (gabapentin)",
+        "type": "Product"
+    },
+    {
+        "id": "{676A39F3-4D93-4A57-A920-CB551B0EA79A}",
+        "name": "Orfarin tab 3 mg (warfarin sodium)",
+        "type": "Product"
+    },
+    {
+        "id": "{5BAABDD0-7868-413B-9BD7-D890EAADAED4}",
+        "name": "Orfarin tab 5 mg (warfarin)",
+        "type": "Product"
+    },
+    {
+        "id": "{FE38D085-B608-4C40-B70D-B6235F3050FB}",
+        "name": "Pharmaniaga Selegiline tab 5 mg (selegiline)",
+        "type": "Product"
+    },
+    {
+        "id": "{3576E66D-1B46-47B4-B763-B9B34F9DE667}",
+        "name": "Phenobarbitone Idaman tab 30 mg (phenobarbital)",
+        "type": "Product"
+    },
+    {
+        "id": "{2699A8F0-0A5D-4CBF-B62A-E98BDC1E2076}",
+        "name": "pioglitazone hydrochloride 15mg Dispersible Tablet",
+        "type": "GGPI"
+    },
+    {
+        "id": "{5E2C42AB-C68E-4B4E-8FB6-9FDE20C53DD9}",
+        "name": "Plavix FC tab 300 mg (clopidogrel)",
+        "type": "Product"
+    },
+    {
+        "id": "{B4493270-8790-14B8-E034-080020E1DD8C}",
+        "name": "prazosin 1mg Oral Tablet",
+        "type": "GGPI"
+    },
+    {
+        "id": "{E104D82C-F539-4192-A24F-054326F491FD}",
+        "name": "Pricolax tab 5 mg (bisacodyl)",
+        "type": "Product"
+    },
+    {
+        "id": "{36FD4873-6C2A-430C-85F1-676619C443C9}",
+        "name": "probenecid 500mg Oral Tablet",
+        "type": "GGPI"
+    },
+    {
+        "id": "{717F05DB-ECA3-4F00-AD44-993623EDE331}",
+        "name": "Profol inj 1% (propofol)",
+        "type": "Product"
+    },
+    {
+        "id": "{29EFD1F0-04BD-4BEC-8EE7-EF340913B0B2}",
+        "name": "Prolia soln for inj (pre-filled syringe) 60 mg/mL",
+        "type": "Product"
+    },
+    {
+        "id": "{378D84FB-B50A-4B88-B537-D9AD346C7D0C}",
+        "name": "Properol 1 mg/mL Injection (propranolol hydrochloride)",
+        "type": "Product"
+    },
+    {
+        "id": "{A24755ED-151A-41B3-BDEC-1BA3303C1343}",
+        "name": "Pulin FC tab 10 mg (metoclopramide hydrochloride)",
+        "type": "Product"
+    },
+    {
+        "id": "{2007058E-7360-48C1-9D9D-990D4C0689A0}",
+        "name": "Pulmicort turbuhaler 100 mcg/dose (budesonide)",
+        "type": "Product"
+    },
+    {
+        "id": "{EFCF20D2-8E8A-47E0-BA9A-1D9E8E845E6B}",
+        "name": "Ramtace tab 10 mg (ramipril)",
+        "type": "Product"
+    },
+    {
+        "id": "{2D566D3F-450F-4E6C-9D9A-D8B309907E9A}",
+        "name": "rifampicin Film Coated Tablet",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{CDA1B046-0B52-42DE-81EF-BADBD6E9AE29}",
+        "name": "Shintamet FC tab 200 mg (cimetidine)",
+        "type": "Product"
+    },
+    {
+        "id": "{302AF360-8004-4CC3-95C0-A4CBB8825367}",
+        "name": "Smecta powd for oral susp 3 g",
+        "type": "Product"
+    },
+    {
+        "id": "{08537826-F93C-4B16-A32C-492A907CEB48}",
+        "name": "Spiriva Respimat inhalation soln 2.5 mcg/puff",
+        "type": "Product"
+    },
+    {
+        "id": "{1EF3D97A-B816-424A-8611-138FB34213CD}",
+        "name": "sulfamethizole 4% Eye and Ear Drops",
+        "type": "GGPI"
+    },
+    {
+        "id": "{3FF1EECF-EDA2-4086-8941-01469BCDA202}",
+        "name": "Synamox oral susp 125 mg/5 mL (amoxicillin)",
+        "type": "Product"
+    },
+    {
+        "id": "{36F075F0-6369-42F9-914C-8CD8F78E17A7}",
+        "name": "Tagamet tab 200 mg (cimetidine)",
+        "type": "Product"
+    },
+    {
+        "id": "{7211E99E-8A09-40CB-A20F-8FD840BEC083}",
+        "name": "Test",
+        "type": "Product"
+    },
+    {
+        "id": "{0D70A7F7-8D66-498C-87AE-D0DF167C24A4}",
+        "name": "theophylline 0.16g Injectable Solution",
+        "type": "GGPI"
+    },
+    {
+        "id": "{2C5B4266-70EA-4974-ABE0-4CD875797554}",
+        "name": "Therasorb Algi Plus foam",
+        "type": "Product"
+    },
+    {
+        "id": "{C03CD987-D452-2000-E034-0003BA299378}",
+        "name": "thiopental sodium 0.5g Injection",
+        "type": "GGPI"
+    },
+    {
+        "id": "{D7AA8175-A8D6-47D2-BB3E-0F4E5D2AC56F}",
+        "name": "Tienam powd for infusion (vial) 500/500 mg (cilastatin - imipenem)",
+        "type": "Product"
+    },
+    {
+        "id": "{41B3DDAC-1D7E-4FD5-97E4-7AA7197845A3}",
+        "name": "tinidazole 500mg Infusion Solution",
+        "type": "GGPI"
+    },
+    {
+        "id": "{A909DA93-4E35-4DAE-92B3-040B180FD2EB}",
+        "name": "tiotropium bromide Inhalation Solution",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{BF23A006-B0D0-6E12-E034-0003BA299378}",
+        "name": "toremifene citrate Oral Tablet",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{BFA5C41F-929E-4E44-956E-809B80CF649C}",
+        "name": "Trandate inj 25 mg/5 mL",
+        "type": "Product"
+    },
+    {
+        "id": "{C8EAB468-E567-4246-9E3D-453214725EEE}",
+        "name": "Turmercumin vegecap",
+        "type": "Product"
+    },
+    {
+        "id": "{C5B9BB07-8494-4022-941D-15B78719A45E}",
+        "name": "valganciclovir Coated Tablet",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{23F5183C-80AB-4E84-9F6A-11FEAD7BFA65}",
+        "name": "varicella vaccine, live attenuated 0.5mL Injectable Suspension",
+        "type": "GGPI"
+    },
+    {
+        "id": "{F0FDC06F-E5AD-4A26-8899-D71C800959FB}",
+        "name": "varicella vaccine, live attenuated Lyophilized Powder for Injectable Solution",
+        "type": "GenericItem"
+    },
+    {
+        "id": "{D2E2D654-E6A0-4E8D-82B3-CBAE854F6F60}",
+        "name": "Vercef dispersible tab 125 mg (cefaclor)",
+        "type": "Product"
+    },
+    {
+        "id": "{EA518DC5-8997-4CD8-AE74-AE908CBBAF2F}",
+        "name": "Vismed eye drops (preservative-free) 0.18%",
+        "type": "Product"
+    },
+    {
+        "id": "{E6EDB82B-4FE2-463C-A937-A37B6784BC55}",
+        "name": "Vytorin 10/40 mg tab (ezetimibe - simvastatin)",
+        "type": "Product"
+    },
+    {
+        "id": "{16A95B0B-C57A-4A56-9B86-B72C67AA78A0}",
+        "name": "Xanthine-related compounds",
+        "type": "SubstanceClass"
+    },
+    {
+        "id": "{D17AD0CE-5C3C-4C50-91D0-F34EC279CB13}",
+        "name": "Xylocaine 10% Pump Spray [Discontinued]  (lidocaine)",
+        "type": "Product"
+    }
+]

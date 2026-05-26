@@ -1,0 +1,11 @@
+[project]
+name = "mims-test-app"
+version = "0.1.0"
+description = "MIMS Drug Interaction Scenario Builder & API Test Tool"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn>=0.30.0",
+    "lxml>=5.0.0",
+    "requests>=2.31.0",
+]

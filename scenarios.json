@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Scenario 1: The Bleeding Risk (Triple Threat)",
+        "prescription_query": "<Request>\n  <Interaction>\n    <Prescribing>\n      <Product reference=\"{9C83B346-F698-44AB-B0E7-D11D5A92C52F}\">\n        <Dosing>\n            <Dose><Value>200</Value><Unit>mg</Unit></Dose>\n            <Frequency name=\"once a day\"/>\n        </Dosing>\n      </Product>\n    </Prescribing>\n    <Prescribed>\n      <Product reference=\"{5BAABDD0-7868-413B-9BD7-D890EAADAED4}\" />\n    </Prescribed>\n    <HealthIssueCodes>\n      <HealthIssueCode code=\"K27.0\" codeType=\"ICD10\" />\n    </HealthIssueCodes>\n  </Interaction>\n  <PatientProfile>\n    <Gender>F</Gender>\n    <Age><Year>65</Year></Age>\n  </PatientProfile>\n</Request>",
+        "alert_filter_by_drug": "",
+        "alert_filter_by_severity": ""
+    },
+    {
+        "name": "Scenario 2: The Serotonin Syndrome",
+        "prescription_query": "<Request>\n  <Interaction>\n    <Prescribing>\n      <Product reference=\"{954BAEC4-015C-4AB7-9EE6-52932265932A}\">\n      </Product>\n    </Prescribing>\n    <Prescribed>\n      <Product reference=\"{FE38D085-B608-4C40-B70D-B6235F3050FB}\" />\n    </Prescribed>\n  </Interaction>\n  <PatientProfile>\n    <Gender>M</Gender>\n    <Age><Year>40</Year></Age>\n  </PatientProfile>\n</Request>",
+        "alert_filter_by_drug": "",
+        "alert_filter_by_severity": ""
+    },
+    {
+        "name": "Scenario 3: Duplicate Statins & Liver Risk",
+        "prescription_query": "<Request>\n  <Interaction>\n    <Prescribing>\n      <Product reference=\"{22CD5B4E-D7D7-434E-9CCD-2762030E5312}\">\n      </Product>\n    </Prescribing>\n    <Prescribed>\n      <Product reference=\"{E6EDB82B-4FE2-463C-A937-A37B6784BC55}\" />\n    </Prescribed>\n    <DuplicateTherapy checkSameDrug=\"true\" />\n    <DuplicateIngredient checkSameDrug=\"true\" />\n  </Interaction>\n  <PatientProfile>\n    <Gender>M</Gender>\n    <Age><Year>55</Year></Age>\n  </PatientProfile>\n</Request>",
+        "alert_filter_by_drug": "",
+        "alert_filter_by_severity": ""
+    },
+    {
+        "name": "Scenario 4: The Pregnant Epileptic",
+        "prescription_query": "<Request>\n  <Interaction>\n    <Prescribing>\n      <Product reference=\"{0B0D0BE1-C5C8-47D8-9BE1-7D8B0DA615A9}\">\n      </Product>\n    </Prescribing>\n  </Interaction>\n  <PatientProfile>\n    <Gender>F</Gender>\n    <Age><Year>25</Year></Age>\n    <Pregnancy>\n        <Month>2</Month>\n    </Pregnancy>\n  </PatientProfile>\n</Request>",
+        "alert_filter_by_drug": "",
+        "alert_filter_by_severity": ""
+    },
+    {
+        "name": "Scenario 5: Pediatric Antibiotic Allergy",
+        "prescription_query": "<Request>\n  <Interaction>\n    <Prescribing>\n      <Product reference=\"{3FF1EECF-EDA2-4086-8941-01469BCDA202}\">\n      </Product>\n    </Prescribing>\n    <Allergies>\n      <Product reference=\"{3FF1EECF-EDA2-4086-8941-01469BCDA202}\" />\n    </Allergies>\n  </Interaction>\n  <PatientProfile>\n    <Gender>M</Gender>\n    <Age><Year>5</Year></Age>\n    <Weight>18</Weight>\n  </PatientProfile>\n</Request>",
+        "alert_filter_by_drug": "",
+        "alert_filter_by_severity": ""
+    },
+    {
+        "name": "Scenario 6: The Cardiac Cascade",
+        "prescription_query": "<Request>\n  <Interaction>\n    <Prescribing>\n      <Product reference=\"{A229DE8D-8337-4809-B072-7149BC2FBC78}\">\n      </Product>\n    </Prescribing>\n    <Prescribed>\n      <Product reference=\"{7211E99E-8A09-40CB-A20F-8FD840BEC083}\" />\n    </Prescribed>\n    <HealthIssueCodes>\n      <HealthIssueCode code=\"R00.1\" codeType=\"ICD10\" />\n    </HealthIssueCodes>\n  </Interaction>\n  <PatientProfile>\n    <Gender>M</Gender>\n    <Age><Year>70</Year></Age>\n  </PatientProfile>\n</Request>",
+        "alert_filter_by_drug": "",
+        "alert_filter_by_severity": ""
+    },
+    {
+        "name": "Scenario 7: Renal Risk Double Hit",
+        "prescription_query": "<Request>\n  <Interaction>\n    <Prescribing>\n      <Product reference=\"{0B0D0BE1-C5C8-47D8-9BE1-7D8B0DA615A9}\">\n      </Product>\n    </Prescribing>\n    <Prescribed>\n      <GGPI reference=\"{36FD4873-6C2A-430C-85F1-676619C443C9}\" />\n    </Prescribed>\n  </Interaction>\n  <PatientProfile>\n    <Gender>F</Gender>\n    <Age><Year>50</Year></Age>\n  </PatientProfile>\n</Request>",
+        "alert_filter_by_drug": "",
+        "alert_filter_by_severity": ""
+    },
+    {
+        "name": "Scenario 8: The Nursing Mother",
+        "prescription_query": "<Request>\n  <Interaction>\n    <Prescribing>\n      <Product reference=\"{7211E99E-8A09-40CB-A20F-8FD840BEC083}\">\n      </Product>\n    </Prescribing>\n  </Interaction>\n  <PatientProfile>\n    <Gender>F</Gender>\n    <Age><Year>28</Year></Age>\n    <Nursing>true</Nursing>\n  </PatientProfile>\n</Request>",
+        "alert_filter_by_drug": "",
+        "alert_filter_by_severity": ""
+    },
+    {
+        "name": "Scenario 9: Beta-Blocker Overload",
+        "prescription_query": "<Request>\n  <Interaction>\n    <Prescribing>\n      <Product reference=\"{CFE66993-A07C-4857-95C7-68A6092D9272}\">\n      </Product>\n    </Prescribing>\n    <Prescribed>\n      <Product reference=\"{DEEFE9E8-83F3-4A94-A736-A21BFCA80B31}\" />\n    </Prescribed>\n    <DuplicateTherapy checkSameDrug=\"true\" />\n  </Interaction>\n  <PatientProfile>\n    <Gender>M</Gender>\n    <Age><Year>60</Year></Age>\n  </PatientProfile>\n</Request>",
+        "alert_filter_by_drug": "",
+        "alert_filter_by_severity": ""
+    },
+    {
+        "name": "Scenario 10: Massive Overdose",
+        "prescription_query": "<Request>\n  <Interaction>\n    <Prescribing>\n      <GenericItem reference=\"{B43550AD-945E-461B-E034-080020E1DD8C}\">\n        <Dosing>\n            <Dose><Value>30</Value><Unit>mg</Unit></Dose>\n            <Frequency name=\"once a day\"/>\n            <Duration><Day>1</Day></Duration>\n        </Dosing>\n      </GenericItem>\n    </Prescribing>\n  </Interaction>\n  <PatientProfile>\n    <Gender>M</Gender>\n    <Age><Year>40</Year></Age>\n    <Weight>70</Weight>\n  </PatientProfile>\n</Request>",
+        "alert_filter_by_drug": "",
+        "alert_filter_by_severity": ""
+    }
+]
